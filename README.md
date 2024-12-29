@@ -1,0 +1,1 @@
+# Aplicaci-n-de-Machine-Learning-para-batir-al-S-P-500-mediante-rotaci-n-sectorial
